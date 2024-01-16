@@ -1,0 +1,19 @@
+.predmet{
+	height: 170px;
+	display: block;
+}
+.price-list{
+	background: #660033;
+	height: 125vh;
+	width: 1240px;
+	background-repeat: no-repeat;
+	background-size: cover;	
+	align-items: center;	
+}
+.da{
+	height: 410px;
+}
+.matem{
+	height: 410px;
+	margin-left: 414px;
+}
